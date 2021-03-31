@@ -1,0 +1,2 @@
+BeautifulSoup==4.9.1
+pycurl==7.43.0.6
