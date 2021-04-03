@@ -129,10 +129,13 @@ dmypy.json
 .pyre/
 
 # Configs
-config.py
+resourses/config.py
 
 # Pycharm config files
 .idea
 
 # urls
-links.txt
+/resourses/urls.txt
+
+# cookie
+/resourses/cookie.txt
