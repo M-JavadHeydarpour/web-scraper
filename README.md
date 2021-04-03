@@ -1,8 +1,3 @@
-
-
-<p align="center">
-	<a href="https://www.hackerrank.com/profile/kumbonghermann"><img src="assets/images/circuit.jpg" ></a>
-</p>
 <h1 align="center">
     Python Web Scraper 
 </h1>
