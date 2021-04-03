@@ -1,2 +1,4 @@
-BeautifulSoup==4.9.1
-pycurl==7.43.0.6
+pycurl~=7.43.0.2
+detectlanguage==1.5.0
+beautifulsoup4~=4.9.1
+requests~=2.22.0
