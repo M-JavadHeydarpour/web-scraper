@@ -1,0 +1,2 @@
+URLS = 'path to a file contains all url'
+DETECT_LANGUAGE_API_KEY = 'get api key from https://detectlanguage.com/'
